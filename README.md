@@ -1,5 +1,5 @@
-# Arduino-Neopixel-Clock-Uhr-WS2812b-mit-Pin-8-und-5-Volt😺 Arduino  Neopixel  Clock (Uhr) WS2812b mit Pin 8  und  5 Volt (1080p) 
- eine wenig schneller 
+😺 Arduino-Neopixel-Clock-Uhr-WS2812b-mit-Pin-8-und-5-Volt😺
+ ...eine wenig schneller 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 🎵 Track Info:
